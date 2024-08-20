@@ -1,4 +1,4 @@
-Machine Learning for Cancer Prediction
+**Machine Learning for Cancer Prediction**
 
 Here, Multi-class classification has been done among different cancer types namely Breast cancer, Kidney Cancer, Lung Cancer, Prostate Cancer and Colon Cancer. 
 Dataset used in this project is collected from UCI Machine Learning Repository.
